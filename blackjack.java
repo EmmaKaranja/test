@@ -31,10 +31,10 @@ public static void main(String[] args) {
 		    
 		    //Print the cards 
 		    
-		    System.out.println("MY ten  Dealer " + "Card one is "  + Dealercard1value + " " + Dealercard1type);
-		    System.out.println("MY ten Dealer " + "Card Two is "  + Dealercard2value + " " + Dealercard2type);
-		    System.out.println("MY ten Customer" + "Card one is "  + Customer1value + " " + Customer1type);
-		    System.out.println("MY ten Customer" + "Card Two is "  + Customer2value + " " + Customer2type);
+		    System.out.println("MY fifteen Dealer " + "Card one is "  + Dealercard1value + " " + Dealercard1type);
+		    System.out.println("MY fifteen Dealer " + "Card Two is "  + Dealercard2value + " " + Dealercard2type);
+		    System.out.println("MY fifteen Customer" + "Card one is "  + Customer1value + " " + Customer1type);
+		    System.out.println("MY fifteen Customer" + "Card Two is "  + Customer2value + " " + Customer2type);
 		}
 		
 	}
